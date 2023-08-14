@@ -3,7 +3,6 @@
 
 A simple implementation of the classic Tetris game using Python and the `pygame` library.
 
-![Tetris Screenshot](screenshot.png)
 
 ## Table of Contents
 
